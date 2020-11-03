@@ -1,0 +1,3 @@
+2020-11-03 17:53:12.498 INFO  --- [StartupInfoLogger.java:55][restartedMain] - Starting MyApplication on ST-201910291029 with PID 8236 (C:\Users\JAVA\Desktop\back\target\classes started by uid in C:\Users\JAVA\Desktop\back)
+2020-11-03 17:53:12.542 INFO  --- [SpringApplication.java:651][restartedMain] - No active profile set, falling back to default profiles: default
+2020-11-03 17:53:15.519 INFO  --- [StartupInfoLogger.java:61][restartedMain] - Started MyApplication in 3.84 seconds (JVM running for 4.618)
